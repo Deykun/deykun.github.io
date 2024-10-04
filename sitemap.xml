@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://deykun.github.io/</loc>
+  <lastmod>2024-10-04T17:56:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://deykun.github.io/maps/</loc>
+  <lastmod>2024-10-03T09:15:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://deykun.github.io/maps/deutsche-heraldik</loc>
+  <lastmod>2024-07-28T10:05:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://deykun.github.io/maps/eesti-heraldika</loc>
+  <lastmod>2024-07-28T10:05:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://deykun.github.io/maps/suomalainen-heraldikka</loc>
+  <lastmod>2024-07-28T10:05:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://deykun.github.io/maps/heraldyka</loc>
+  <lastmod>2024-07-28T10:05:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://deykun.github.io/maps/heraldry</loc>
+  <lastmod>2024-07-28T10:05:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://deykun.github.io/diffle-lang/</loc>
+  <lastmod>2024-07-28T10:05:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://deykun.github.io/diffle-lang/cs</loc>
+  <lastmod>2024-07-28T10:05:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://deykun.github.io/diffle-lang/de</loc>
+  <lastmod>2024-07-28T10:05:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://deykun.github.io/diffle-lang/en</loc>
+  <lastmod>2024-07-28T10:05:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://deykun.github.io/diffle-lang/es</loc>
+  <lastmod>2024-07-28T10:05:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://deykun.github.io/diffle-lang/fi</loc>
+  <lastmod>2024-07-28T10:05:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://deykun.github.io/diffle-lang/fr</loc>
+  <lastmod>2024-07-28T10:05:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://deykun.github.io/diffle-lang/it</loc>
+  <lastmod>2024-07-28T10:05:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://deykun.github.io/diffle-lang/pl</loc>
+  <lastmod>2024-07-28T10:05:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+</urlset>
